@@ -1,0 +1,47 @@
+h1 {
+	color: MediumSeaGreen;
+}
+body {
+	background-color: Gainsboro;
+	color: SlateBlue;
+margin-left: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+p.citat{
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-style: italic;	
+}
+ 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center-left;
+  border-bottom: 1px solid #ddf;
+}
+
+tr:hover {background-color:#F0FFFF;}
+	img.profil{
+		border-radius: 8px;
+		opacity: 0.8;
+	}
+	img.coperta{ 
+                display: block; 
+                margin-left: auto; 
+                margin-right: auto; 
+		}
+		a.linkagenda{
+			font-style: italic;
+			font-size: 24px;
+			color: blue;
+		}
+	ul {
+		
+		padding: 20px;
+	}
+	li:hover {background: #F0FFFF;}
+	
+	
